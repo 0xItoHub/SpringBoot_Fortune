@@ -12,7 +12,7 @@ http://ec2-3-106-186-16.ap-southeast-2.compute.amazonaws.com:8080/fortune
 
 ## 使用技術
 
-- Java 22.0.2
+- Java 21.0.2
 - Spring Boot 3.2.8
 - Thymeleaf
 
