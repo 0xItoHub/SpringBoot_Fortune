@@ -1,5 +1,6 @@
 
 # 占いアプリケーション
+AWSのEC2上にデプロイ
 http://ec2-3-106-186-16.ap-southeast-2.compute.amazonaws.com:8080/fortune
 
 
